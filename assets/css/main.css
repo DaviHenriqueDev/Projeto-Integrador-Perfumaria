@@ -1884,8 +1884,8 @@ input, select, textarea {
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			box-shadow: inset 0 0 0 2px #2ee4bb;
-			color: #2ee4bb !important;
+			box-shadow: inset 0 0 0 2px #000000;
+			color: #000000 !important;
 		}
 
 		input[type="submit"]:active,
@@ -1893,9 +1893,9 @@ input, select, textarea {
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: rgba(73, 252, 212, 0.25);
-			box-shadow: inset 0 0 0 2px #2ee4bb;
-			color: #2ee4bb !important;
+			background-color: rgba(57, 63, 62, 0.25);
+			box-shadow: inset 0 0 0 2px #000000;
+			color: #000000 !important;
 		}
 
 		input[type="submit"].small,
@@ -2037,7 +2037,7 @@ input, select, textarea {
 			-ms-flex-wrap: wrap;
 			flex-wrap: wrap;
 			margin: -2rem 0 2rem -2rem;
-			width: calc(100% + 4rem);
+			width: calc(100% + 4rem);			
 		}
 
 			form > .fields > .field {
@@ -2136,7 +2136,7 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #2ee4bb;
+			border-color: #000000;
 		}
 
 	label {
@@ -3886,4 +3886,7 @@ input, select, textarea {
 			padding: 4rem;
 		}
 
+	}
+	#scroll-suave{
+		scroll-behavior: smooth;
 	}
