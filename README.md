@@ -8,7 +8,6 @@
 ## 🌐 Demonstração
 
 👉 [Acesse o site aqui](https://davihenriquedev.github.io/Projeto-Integrador-Perfumaria/)  
-<sub>(Substitua esse link pelo real, se estiver hospedado no GitHub Pages ou outro serviço)</sub>
 
 ---
 
