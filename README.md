@@ -32,8 +32,6 @@ Este projeto foi desenvolvido por:
 
 ## 📄 Licença
 
-Este projeto está sob a licença [MIT](LICENSE).
-
 > Este projeto utiliza um template do site [HTML5 UP](https://html5up.net/).
 
 ---
